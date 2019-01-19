@@ -2,6 +2,6 @@
   "string":"stroka",
   "number":123,
   "boolean":false,
-  "object":undefined,
+  "object":{model:'bmw'},
   "null": null,
 }
