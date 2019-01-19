@@ -1,0 +1,7 @@
+{
+  "string":"stroka",
+  "number":123,
+  "boolean":false,
+  "object":5,
+  "null": null,
+}
